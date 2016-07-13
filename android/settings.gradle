@@ -1,0 +1,3 @@
+rootProject.name = 'EasyModule'
+
+include ':app'
